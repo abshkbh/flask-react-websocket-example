@@ -20,5 +20,15 @@ pip3 install -r requirements.txt
 
 # Running the frontend
 
+# Only required for the first time
+
+<pre><code>
 cd frontend
+npm install
+</code></pre>
+
+# Run the client
+
+<pre><code>
 npm start
+</code></pre>
